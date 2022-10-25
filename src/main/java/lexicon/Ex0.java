@@ -8,5 +8,6 @@ public class Ex0 {
         String str = "Java";
         System.out.println(str.length());
         //
+        System.out.println("Test");
     }
 }
