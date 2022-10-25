@@ -9,5 +9,6 @@ public class Ex0 {
         System.out.println(str.length());
         //
         System.out.println("Test");
+        System.out.println("Test");
     }
 }
