@@ -10,5 +10,6 @@ public class Ex0 {
         //
         System.out.println("Test");
         System.out.println("Test");
+        System.out.println("Test");
     }
 }
